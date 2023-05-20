@@ -14,6 +14,6 @@ Age_estimation_no_kids_rmse: uses 4 age groups (excludes under15). Loss is weigh
 
 
 
-# The code does not use the full path for the data files. To run, the .ipynb file being used must be inside the PETA folder.
+The code does not use the full path for the data files. To run, the .ipynb file being used must be inside the PETA folder.
 
-# Packages: Tensorflow, Pandas, Numpy
+Packages: Tensorflow, Pandas, Numpy
